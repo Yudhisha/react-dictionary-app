@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/53326473/163552821-01ae4855-ef8c-4536-8722-a3c84c20ca5a.png)
 ![image](https://user-images.githubusercontent.com/53326473/163552664-25f323b3-c9df-4901-ab25-5a1bfd8de4f5.)
 ![image](https://user-images.githubusercontent.com/53326473/163552848-d9f33d74-255c-4759-ae1a-bd9f73f464bb.png)
+![image](https://user-images.githubusercontent.com/53326473/163578835-54000d51-e540-406d-87c0-0be64ce36142.png)
 
 
 Live URL : https://yudhisha-dictionary.netlify.app/
